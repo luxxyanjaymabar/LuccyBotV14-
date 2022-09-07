@@ -44,8 +44,7 @@ let info = `
 ┏⫹⫺ *ᴘʀᴏ* 
 ┗$ ${pv}k (5 bulan)                                            
 
-*📦 Kalau mau dapat discon cek website TokoBot*
-Link: https://toko.ly/TokoBot
+
 
 –––––– *ᴋᴇʙɪᴊᴀᴋᴀɴ* ––––––
 🗣️: Kak, Kok harganya mahal banget?
