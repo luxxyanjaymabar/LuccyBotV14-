@@ -8,8 +8,8 @@ const sections = [
 	rows: [
 	    {title: "📊Test Speed", rowId: '.testspeed', description: 'Test Speed' },
 	    {title: "📉Stats Server", rowId: '.statserver', description: 'Status server' },
-	{title: "👤Owner", rowId: '.owner', description: 'Owner Fangz BOT' },
-	{title: "💰Donasi", rowId: '.donasi', description: 'Support Fangz' },
+	{title: "👤Owner", rowId: '.owner', description: 'Owner VEN BOT' },
+	{title: "💰Donasi", rowId: '.donasi', description: 'Support Levi' },
 	]
     }, {
     title: `✃ INFO`,
