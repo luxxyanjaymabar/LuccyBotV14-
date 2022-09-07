@@ -14,12 +14,12 @@ const sections = [
     }, {
     title: `✃ INFO`,
 	rows: [
-	    {title: "📖Rules", rowId: '.rules', description: 'S&K Fangz BOT' },
+	    {title: "📖Rules", rowId: '.rules', description: 'S&K VEN BOT' },
 	    {title: "⛔", rowId: 'huuu', description: 'No menu' },
-	{title: "⚡Speed", rowId: '.speed', description: 'Speed Fangz BOT' },
-	{title: "💰Sewa BOT", rowId: '.sewa', description: 'Sewa Fangz BOT' },
-	{title: "🗣️Request Fitur", rowId: '.request', description: 'Request Fitur Fangz BOT' },
-	{title: "🌏Lokasi BOT", rowId: '.loc2', description: 'Lokasi Fangz BOT' },
+	{title: "⚡Speed", rowId: '.speed', description: 'Speed VEN BOT' },
+	{title: "💰Sewa BOT", rowId: '.sewa', description: 'Sewa VEN BOT' },
+	{title: "🗣️Request Fitur", rowId: '.request', description: 'Request Fitur VEN BOT' },
+	{title: "🌏Lokasi BOT", rowId: '.loc2', description: 'Lokasi VEN BOT' },
 	]
     },
 ]
